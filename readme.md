@@ -20,7 +20,8 @@ Breve descrição do seu projeto.
 
 ## Uso
 
-na raiz do projeto abra o terminal e coloque o comando node .src\list1\nomeDoArquivoPraExecutar.
+na raiz do projeto abra o terminal e coloque o comando node .src\list1\nomeDoArquivoPraExecutar para lista 1
+ou node .src\list2\nomeDoArquivoPraExecutar para a lista 2
 
 exemplo:
 ```bash
